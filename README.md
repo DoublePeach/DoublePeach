@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doublepeach" alt="doublepeach" /></a> </p>
 
-- 📝 I regularly write articles on [http://doublepeach.site:8090](http://doublepeach.site:8090)
+- 📝 I regularly write articles on [http://doublepeach.site](http://doublepeach.site)
 
 - 📫 How to reach me **2389242270@qq.com**
 
